@@ -86,7 +86,7 @@ Thanks for review this API!
 
 Playlist API created by:
 
-Andrés Felipe López Ochoa
+    **Andrés Felipe López Ochoa**
     Backend Developer
     email: anflopezoc@gmail.com
     LinkedIn: https://www.linkedin.com/in/anflopezoc/
