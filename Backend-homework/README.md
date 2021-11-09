@@ -71,6 +71,7 @@ In this path, you can use the token obtained when logging in the authorization b
 In this path user can create and manage their playlists.
 
 The users can:
+
     -Show all related user playlists
     -Create the playlist.
     -Show all songs in DB.
