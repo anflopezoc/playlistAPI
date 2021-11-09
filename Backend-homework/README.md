@@ -11,8 +11,8 @@ This API has created in NodeJS Javascript with the Express JS framework NodeJS, 
 ## How to init the API?
 First, you need to install the following programs in order to run this API:
 
--NodeJS
--MariaDB
+    -NodeJS
+    -MariaDB
 
 You can clone or download the API's repository and then you need to create the .env in the Backend-homework folder. The .env file can use the following settings:
 
@@ -71,14 +71,14 @@ In this path, you can use the token obtained when logging in the authorization b
 In this path user can create and manage their playlists.
 
 The users can:
--Show all related user playlists
--Create the playlist.
--Show all songs in DB.
--Add song to playlist.
--Delete song from playlist.
--Show the created playlist.
--Update the title of the playlist.
--Get information from artists in the Deezer API
+    -Show all related user playlists
+    -Create the playlist.
+    -Show all songs in DB.
+    -Add song to playlist.
+    -Delete song from playlist.
+    -Show the created playlist.
+    -Update the title of the playlist.
+    -Get information from artists in the Deezer API
 
 
 Thanks for review this API!
@@ -86,6 +86,6 @@ Thanks for review this API!
 Playlist API created by:
 
 Andrés Felipe López Ochoa
-Backend Developer
-email: anflopezoc@gmail.com
-LinkedIn: https://www.linkedin.com/in/anflopezoc/
+    Backend Developer
+    email: anflopezoc@gmail.com
+    LinkedIn: https://www.linkedin.com/in/anflopezoc/
