@@ -14,7 +14,7 @@ First, you need to install the following programs in order to run this API:
 -NodeJS
 -MariaDB
 
-You can clone or download the API's repository and then you need to create the .env file in the APIin the Backend-homework folder. The .env file can use the following settings:
+You can clone or download the API's repository and then you need to create the .env in the Backend-homework folder. The .env file can use the following settings:
 
     PORT=3000
     DB_HOST='localhost'
