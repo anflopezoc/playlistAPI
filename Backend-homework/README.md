@@ -5,7 +5,7 @@
 Users can register on this API to create and manage their music playlists.
 Plus: additionally, users can query the Deezer API to search information for an artist.
 
-## What is the technology used in this API?
+## What is the technologies used in this API?
 This API has created in NodeJS Javascript with the Express JS framework NodeJS, MariaDB(MySQL) and Sequelize ORM for database, Mocha-Chai for testing and Swagger (APi 3.0) documentation.
 
 ## How to init the API?
@@ -14,7 +14,7 @@ First, you need to install the following programs in order to run this API:
 -NodeJS
 -MariaDB
 
-You can clone or download the API's repository and then you need to create the .env file in the API. The .env file can use the following settings in the Backend-homework folder:
+You can clone or download the API's repository and then you need to create the .env file in the APIin the Backend-homework folder. The .env file can use the following settings:
 
     PORT=3000
     DB_HOST='localhost'
