@@ -215,6 +215,30 @@ router.post('/addsongplaylist', addSongtoPlaylist);
 */
 router.delete('/removesongplaylist', removeSongtoPlaylist);
 
+/**
+* @swagger
+* /myplaylists/requestapi:
+*        get:
+*          summary: Get information from artists in the Deezer API.
+*          description: Endpoint to get information from artists in the Deezer API. Returns information about the artist's discografic.
+*          tags: [myPlaylists]
+*          security: 
+*                   - bearerAuth: []
+*          parameters:
+*                   - in: query
+*                     name: artistName
+*                     description: The artist name that the user want to show information.
+*          responses:
+*                  '200':
+*                      content:
+*                          'aplication/json': {}
+*                          'aplication/xml': {}
+*
+*                  400:
+*                      content:
+*                          'aplication/json': {}
+*                          'aplication/xml': {}
+*/
 router.get('/requestapi', musicapi)
 
 // -----Schemas Swagger-----

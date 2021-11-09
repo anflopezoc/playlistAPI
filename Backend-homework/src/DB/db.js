@@ -62,7 +62,7 @@ const db = {};
       require('../default/user.default')();
       require('../default/artist.default')();
 
-      console.log('Connection has been established successfully.');
+      console.log('DB connection has been established successfully.');
   } catch (error) {
     console.error('Unable to connect to the database:', error);
   }

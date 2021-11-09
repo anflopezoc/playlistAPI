@@ -39,7 +39,7 @@ router.post('/signup', signin);
  * /account/login:
  *      post:
  *          summary: Login user.
- *          description: Login to the user's account. Return the user token.
+ *          description: Login to the user's account. Returns the user token.
  *          tags: [Account]
  *          security: []
  *          requestBody:
